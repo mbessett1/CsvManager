@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Copyright>(c) 2011 - 2023</Copyright>
+		<Description>Efficient way to move generic lists in and out of CSV files.</Description>
+		<PackageReleaseNotes>Updated to net6</PackageReleaseNotes>
+		<AssemblyVersion>1.2.0</AssemblyVersion>
+		<FileVersion>1.2.0</FileVersion>
+		<Version>1.2.0-rc</Version>
+		<SignAssembly>False</SignAssembly>
+		<PackageTags>CSV Parser</PackageTags>
+		<Company>SmartCodeFX</Company>
+		<Authors>Mark Bessett</Authors>
+	</PropertyGroup>
+
+</Project>
